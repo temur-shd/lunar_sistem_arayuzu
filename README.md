@@ -1,4 +1,4 @@
-# lunar_sistem_arayuzu
+# LUNAR SİSTEM ARAYÜZÜ - LUNAR SYSTEM INTERFACE
 Bursa Uludağ Üniversitesi, Uludağ Robot Topluluğu Lunar İHA Takımı olarak bu sene katılacağımız TEKNOFEST 2023 | Uluslararası İHA Yarışmasında “Serbest Görev” kategorisi için yapmış olduğum dron sistem arayüzünü görmektesiniz.
 
 Arayüz yapımında Qt Group (Creator) yazılımı Qml yapısı, backend kısmında Python dili kullanılmıştır. Haberleşme Mavlink protokolü tabanlı pixhawk kartı yardımıyla yapılmaktadır. Tasarım kısmında ise Figma kullanılmıştır. Başlangıç aşamasında olduğum arayüz yapım projemde çalışmalarım ve arayüz için geliştirmelerim devam etmektedir.
