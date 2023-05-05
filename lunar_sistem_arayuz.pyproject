@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","qml/controls/TurnCoordinator.qml","main.qml","qml/controls/AirSpeedIndicator.qml","qml/controls/AttitudeDirectionIndicator.qml","qml/pages/homePage.qml","qml/controls/CustomButton.qml","qml/controls/AltitudeIndicator.qml","qml/controls/CustomComboBox.qml","qml/controls/HorizontalSituationIndicator.qml","qml/controls/ConnectButton.qml","qml/controls/ComboBoxComPort.qml","qml/controls/ComboBoxBaud.qml","qml/controls/CustomTextField.qml","qml/controls/LeftMenuBtn.qml","qml/controls/TopBarButton.qml","qml/controls/VerticalSpeedIndicator.qml"]
+}
